@@ -1,4 +1,4 @@
-# jogo-pong
+# Jogo Pong
 Recriação do clássico jogo pong para aprender lógica de programação com JavaScript
 
 O que aprendi: 
